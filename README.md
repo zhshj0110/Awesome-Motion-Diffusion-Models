@@ -73,7 +73,7 @@ This paper list will be continuously updated.
 - UDE: A Unified Driving Engine for Human Motion Generation [[project](https://zixiangzhou916.github.io/UDE/)] [[paper](https://arxiv.org/abs/2211.16016)] [[code](https://github.com/zixiangzhou916/UDE)]
 - EDGE: Editable Dance Generation From Music [[project](https://edge-dance.github.io/)] [[paper](https://arxiv.org/abs/2211.10658)] [[code](https://github.com/Stanford-TML/EDGE)]
 - MoFusion: A Framework for Denoising-Diffusion-based Motion Synthesis [[project](https://vcai.mpi-inf.mpg.de/projects/MoFusion/)] [[paper](https://arxiv.org/abs/2212.04495)]
-- Generating Human Motion from Textual Descriptions with Discrete Representations [[project](https://mael-zys.github.io/T2M-GPT/)] [[paper](https://arxiv.org/abs/2301.06052)] [[code](https://github.com/Mael-zys/T2M-GPT)]
+- T2M-GPT: Generating Human Motion from Textual Descriptions with Discrete Representations [[project](https://mael-zys.github.io/T2M-GPT/)] [[paper](https://arxiv.org/abs/2301.06052)] [[code](https://github.com/Mael-zys/T2M-GPT)]
 
 **MMM**
 
