@@ -41,6 +41,8 @@ This paper list will be continuously updated.
 
 - FaceTalk: Audio-Driven Motion Diffusion for Neural Parametric Head Models [[project](https://shivangi-aneja.github.io/projects/facetalk/)] [[paper](https://arxiv.org/abs/2312.08459)] [[code](https://github.com/shivangi-aneja/FaceTalk)]
 - AAMDM: Accelerated Auto-regressive Motion Diffusion Mode [[paper](https://arxiv.org/abs/2401.06146)]
+- FlowMDM: Seamless Human Motion Composition with Blended Positional Encodings [[project](https://barquerogerman.github.io/FlowMDM/)] [[paper](https://arxiv.org/abs/2402.15509)] [[code](https://github.com/BarqueroGerman/FlowMDM)]
+- OMG: Towards Open-vocabulary Motion Generation via Mixture of Controllers [[project](https://tr3e.github.io/omg-page/)] [[paper](https://arxiv.org/abs/2312.08985)] [[code](https://tr3e.github.io/omg-page/)]
 
 **IJCV**
 
