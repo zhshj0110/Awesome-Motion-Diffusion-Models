@@ -54,7 +54,7 @@ This paper list will be continuously updated.
 
 **ICLR**
 
-- Human Motion Diffusion Model [[project](https://guytevet.github.io/mdm-page/)] [[paper](https://arxiv.org/abs/2209.14916)] [[code]([(https://github.com/GuyTevet/motion-diffusion-model))]
+- Human Motion Diffusion Model [[project](https://guytevet.github.io/mdm-page/)] [[paper](https://arxiv.org/abs/2209.14916)] [[code](https://github.com/GuyTevet/motion-diffusion-model)]
 
 **ICCV**
 
@@ -64,7 +64,7 @@ This paper list will be continuously updated.
 
 **CVPR**
 
-- Executing your Commands via Motion Diffusion in Latent Space [[project](https://chenxin.tech/mld/)] [[paper]([Executing Your Commands via Motion Diffusion in Latent Space (thecvf.com)](https://openaccess.thecvf.com/content/CVPR2023/papers/Chen_Executing_Your_Commands_via_Motion_Diffusion_in_Latent_Space_CVPR_2023_paper.pdf))] [[code](https://github.com/chenfengye/motion-latent-diffusion)]
+- Executing your Commands via Motion Diffusion in Latent Space [[project](https://chenxin.tech/mld/)] [[paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Chen_Executing_Your_Commands_via_Motion_Diffusion_in_Latent_Space_CVPR_2023_paper.pdf)] [[code](https://github.com/chenfengye/motion-latent-diffusion)]
 - UDE: A Unified Driving Engine for Human Motion Generation [[project](https://zixiangzhou916.github.io/UDE/)] [[paper](https://arxiv.org/abs/2211.16016)] [[code](https://github.com/zixiangzhou916/UDE)]
 - EDGE: Editable Dance Generation From Music [[project](https://edge-dance.github.io/)] [[paper](https://arxiv.org/abs/2211.10658)] [[code](https://github.com/Stanford-TML/EDGE)]
 - MoFusion: A Framework for Denoising-Diffusion-based Motion Synthesis [[project](https://vcai.mpi-inf.mpg.de/projects/MoFusion/)] [[paper](https://arxiv.org/abs/2212.04495)]
