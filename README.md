@@ -37,6 +37,11 @@ This paper list will be continuously updated.
 
 ### 2024
 
+**CVPR**
+
+- FaceTalk: Audio-Driven Motion Diffusion for Neural Parametric Head Models [[project](https://shivangi-aneja.github.io/projects/facetalk/)] [[paper](https://arxiv.org/abs/2312.08459)] [[code](https://github.com/shivangi-aneja/FaceTalk)]
+- AAMDM: Accelerated Auto-regressive Motion Diffusion Mode [[paper](https://arxiv.org/abs/2401.06146)]
+
 **IJCV**
 
 - InterGen: Diffusion-based Multi-human Motion Generation under Complex Interactions [[project](https://tr3e.github.io/intergen-page/)] [[paper](https://doi.org/10.1007/s11263-024-02042-6)] [[code](https://github.com/tr3e/InterGen)]
