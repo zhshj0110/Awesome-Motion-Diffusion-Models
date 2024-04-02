@@ -23,6 +23,7 @@ This paper list will be continuously updated.
 
 - Generating Diverse and Natural 3D Human Motions from Text (**CVPR 2022**) [[project](https://ericguo5513.github.io/text-to-motion/)] [[paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Guo_Generating_Diverse_and_Natural_3D_Human_Motions_From_Text_CVPR_2022_paper.pdf)] [[code](https://github.com/EricGuo5513/text-to-motion)]
 
+
 - BABEL: Bodies, Action and Behavior with English Labels (**CVPR 2021**) [[project](https://babel.is.tue.mpg.de/)] [[paper](https://openaccess.thecvf.com/content/CVPR2021/html/Punnakkal_BABEL_Bodies_Action_and_Behavior_With_English_Labels_CVPR_2021_paper.html)] [[code](https://github.com/abhinanda-punnakkal/BABEL)]
 
 - The KIT Motion-Language Dataset (**Big Data 2016**) [[project](https://motion-annotation.humanoids.kit.edu/dataset/)] [[paper](https://matthiasplappert.com/publications/2016_Plappert_Big-Data.pdf)] 
@@ -39,6 +40,8 @@ This paper list will be continuously updated.
 
 **CVPR**
 
+- DiverseMotion: Towards Diverse Human Motion Generation via Discrete Diffusion [[project](https://ericguo5513.github.io/momask/)] [[paper](https://arxiv.org/abs/2312.00063)] [[code](https://github.com/EricGuo5513/momask-codes)]
+- MMM: Generative Masked Motion Model [[project](https://exitudio.github.io/MMM-page/)] [[paper](http://arxiv.org/abs/2312.03596)] [[code](https://github.com/exitudio/MMM/)]
 - FaceTalk: Audio-Driven Motion Diffusion for Neural Parametric Head Models [[project](https://shivangi-aneja.github.io/projects/facetalk/)] [[paper](https://arxiv.org/abs/2312.08459)] [[code](https://github.com/shivangi-aneja/FaceTalk)]
 - AAMDM: Accelerated Auto-regressive Motion Diffusion Mode [[paper](https://arxiv.org/abs/2401.06146)]
 - FlowMDM: Seamless Human Motion Composition with Blended Positional Encodings [[project](https://barquerogerman.github.io/FlowMDM/)] [[paper](https://arxiv.org/abs/2402.15509)] [[code](https://github.com/BarqueroGerman/FlowMDM)]
@@ -53,6 +56,10 @@ This paper list will be continuously updated.
 - SinMDM: Single Motion Diffusion [[project](https://sinmdm.github.io/SinMDM-page/)] [[paper](https://arxiv.org/abs/2302.05905)] [[code](https://github.com/SinMDM/SinMDM)]
 - Human Motion Diffusion as a Generative Prior [[project](https://priormdm.github.io/priorMDM-page/)] [[paper](https://arxiv.org/abs/2303.01418)] [[code](https://github.com/priorMDM/priorMDM)]
 
+**arXiv papers**
+
+- DiverseMotion: Towards Diverse Human Motion Generation via Discrete Diffusion [[paper](https://arxiv.org/abs/2309.01372)] [[code](https://github.com/axdfhj/MDD)]
+- GUESS:GradUally Enriching SyntheSis for Text-Driven Human Motion Generation [[paper](https://arxiv.org/abs/2401.02142)] [[code](https://github.com/xuehao-gao/guess)]
 ### 2023
 
 **NeurIPS**
