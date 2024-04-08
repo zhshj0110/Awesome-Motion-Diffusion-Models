@@ -59,8 +59,7 @@ This paper list will be continuously updated.
 - Human Motion Diffusion as a Generative Prior [[project](https://priormdm.github.io/priorMDM-page/)] [[paper](https://arxiv.org/abs/2303.01418)] [[code](https://github.com/priorMDM/priorMDM)]
 
 **arXiv papers**
-
-- DiverseMotion: Towards Diverse Human Motion Generation via Discrete Diffusion [[paper](https://arxiv.org/abs/2309.01372)] [[code](https://github.com/axdfhj/MDD)]
+- Motion Mamba: Efficient and Long Sequence Motion Generation with Hierarchical and Bidirectional Selective SSM [[project](https://steve-zeyu-zhang.github.io/MotionMamba/)] [[paper](https://arxiv.org/abs/2403.07487)] [[code](https://github.com/steve-zeyu-zhang/MotionMamba/)]
 - GUESS:GradUally Enriching SyntheSis for Text-Driven Human Motion Generation [[paper](https://arxiv.org/abs/2401.02142)] [[code](https://github.com/xuehao-gao/guess)]
 ### 2023
 
@@ -99,7 +98,7 @@ This paper list will be continuously updated.
 - Listen, denoise, action! Audio-driven motion synthesis with diffusion models [[project](https://www.speech.kth.se/research/listen-denoise-action/)] [[paper](https://arxiv.org/abs/2211.09707)] [[code](https://github.com/simonalexanderson/ListenDenoiseAction)]
 
 **arXiv papers**
-
+- DiverseMotion: Towards Diverse Human Motion Generation via Discrete Diffusion [[paper](https://arxiv.org/abs/2309.01372)] [[code](https://github.com/axdfhj/MDD)]
 - Text2Performer: Text-Driven Human Video Generation [[project](https://yumingj.github.io/projects/Text2Performer.html)] [[paper](https://arxiv.org/abs/2304.08483)] [[code](https://github.com/yumingj/Text2Performer)]
 
 ### 2022
