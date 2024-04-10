@@ -76,10 +76,12 @@ This paper list will be continuously updated.
 - PhysDiff: Physics-Guided Human Motion Diffusion Model [[project](https://nvlabs.github.io/PhysDiff/)] [[paper](https://arxiv.org/abs/2212.02500)]
 - GMD: Guided Motion Diffusion for Controllable Human Motion Synthesis [[project](https://korrawe.github.io/gmd-project/)] [[paper](https://arxiv.org/abs/2305.12577)] [[code](https://github.com/korrawe/guided-motion-diffusion)]
 - ReMoDiffuse: Retrieval-Augmented Motion Diffusion Model [[project](https://mingyuan-zhang.github.io/projects/ReMoDiffuse.html)] [[paper](https://arxiv.org/abs/2304.01116)] [[code](https://github.com/mingyuan-zhang/ReMoDiffuse)]
+- HumanMAC: Masked Motion Completion for Human Motion Prediction [[project](https://lhchen.top/Human-MAC/)] [[paper](https://arxiv.org/pdf/2302.03665.pdf)] [[code](https://github.com/LinghaoChan/HumanMAC)]
+- Fg-T2M: Fine-Grained Text-Driven Human Motion Generation via Diffusion Model [[paper](https://arxiv.org/pdf/2309.06284.pdf)] 
 
 **CVPR**
 
-- Executing your Commands via Motion Diffusion in Latent Space [[project](https://chenxin.tech/mld/)] [[paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Chen_Executing_Your_Commands_via_Motion_Diffusion_in_Latent_Space_CVPR_2023_paper.pdf)] [[code](https://github.com/chenfengye/motion-latent-diffusion)]
+- MLD: Executing your Commands via Motion Diffusion in Latent Space [[project](https://chenxin.tech/mld/)] [[paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Chen_Executing_Your_Commands_via_Motion_Diffusion_in_Latent_Space_CVPR_2023_paper.pdf)] [[code](https://github.com/chenfengye/motion-latent-diffusion)]
 - UDE: A Unified Driving Engine for Human Motion Generation [[project](https://zixiangzhou916.github.io/UDE/)] [[paper](https://arxiv.org/abs/2211.16016)] [[code](https://github.com/zixiangzhou916/UDE)]
 - EDGE: Editable Dance Generation From Music [[project](https://edge-dance.github.io/)] [[paper](https://arxiv.org/abs/2211.10658)] [[code](https://github.com/Stanford-TML/EDGE)]
 - MoFusion: A Framework for Denoising-Diffusion-based Motion Synthesis [[project](https://vcai.mpi-inf.mpg.de/projects/MoFusion/)] [[paper](https://arxiv.org/abs/2212.04495)]
