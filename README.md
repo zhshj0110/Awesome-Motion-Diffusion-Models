@@ -40,6 +40,10 @@ Human Motion Generation: A Survey [[paper]([2307.10894.pdf (arxiv.org)](https://
 
 ### 2024
 
+**TPAMI**
+
+- MotionDiffuse: Text-Driven Human Motion Generation with Diffusion Model [[project](https://mingyuan-zhang.github.io/projects/MotionDiffuse.html)] [[paper](https://arxiv.org/abs/2208.15001)] [[code](https://github.com/mingyuan-zhang/MotionDiffuse)]
+
 **CVPR**
 
 - DiverseMotion: Towards Diverse Human Motion Generation via Discrete Diffusion [[project](https://ericguo5513.github.io/momask/)] [[paper](https://arxiv.org/abs/2312.00063)] [[code](https://github.com/EricGuo5513/momask-codes)]
@@ -113,7 +117,6 @@ Human Motion Generation: A Survey [[paper]([2307.10894.pdf (arxiv.org)](https://
 
 **arXiv papers**
 
-- MotionDiffuse: Text-Driven Human Motion Generation with Diffusion Model [[project](https://mingyuan-zhang.github.io/projects/MotionDiffuse.html)] [[paper](https://arxiv.org/abs/2208.15001)] [[code](https://github.com/mingyuan-zhang/MotionDiffuse)]
 - FLAME: Free-form Language-based Motion Synthesis & Editing [[project](https://kakaobrain.github.io/flame/)] [[paper](https://arxiv.org/abs/2209.00349)] [[code](https://github.com/kakaobrain/flame)]
 
 ## Other Resources
