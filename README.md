@@ -34,6 +34,8 @@ This paper list will be continuously updated.
 
 ## Survey
 
+- 
+Human Motion Generation: A Survey [[paper]([2307.10894.pdf (arxiv.org)](https://arxiv.org/abs/2307.10894))]
 ## Papers
 
 ### 2024
@@ -48,7 +50,7 @@ This paper list will be continuously updated.
 - OMG: Towards Open-vocabulary Motion Generation via Mixture of Controllers [[project](https://tr3e.github.io/omg-page/)] [[paper](https://arxiv.org/abs/2312.08985)] [[code](https://tr3e.github.io/omg-page/)]
 - MAS: Multi-view Ancestral Sampling for 3D motion generation using 2D diffusion [[project](https://guytevet.github.io/mas-page/)] [[paper](https://arxiv.org/abs/2310.14729)] [[code](https://github.com/roykapon/MAS)]
 
-  
+
 **IJCV**
 
 - InterGen: Diffusion-based Multi-human Motion Generation under Complex Interactions [[project](https://tr3e.github.io/intergen-page/)] [[paper](https://doi.org/10.1007/s11263-024-02042-6)] [[code](https://github.com/tr3e/InterGen)]
