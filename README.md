@@ -83,7 +83,10 @@ Human Motion Generation: A Survey [[paper]([2307.10894.pdf (arxiv.org)](https://
 - GMD: Guided Motion Diffusion for Controllable Human Motion Synthesis [[project](https://korrawe.github.io/gmd-project/)] [[paper](https://arxiv.org/abs/2305.12577)] [[code](https://github.com/korrawe/guided-motion-diffusion)]
 - ReMoDiffuse: Retrieval-Augmented Motion Diffusion Model [[project](https://mingyuan-zhang.github.io/projects/ReMoDiffuse.html)] [[paper](https://arxiv.org/abs/2304.01116)] [[code](https://github.com/mingyuan-zhang/ReMoDiffuse)]
 - HumanMAC: Masked Motion Completion for Human Motion Prediction [[project](https://lhchen.top/Human-MAC/)] [[paper](https://arxiv.org/pdf/2302.03665.pdf)] [[code](https://github.com/LinghaoChan/HumanMAC)]
-- Fg-T2M: Fine-Grained Text-Driven Human Motion Generation via Diffusion Model [[paper](https://arxiv.org/pdf/2309.06284.pdf)] 
+- Fg-T2M: Fine-Grained Text-Driven Human Motion Generation via Diffusion Model [[paper](https://arxiv.org/abs/2309.06284)] 
+- BeLFusion: Latent Diffusion for Behavior-Driven Human Motion Prediction [[project](https://barquerogerman.github.io/BeLFusion/)] [[paper](https://arxiv.org/abs/2211.14304)] [[code](https://github.com/BarqueroGerman/BeLFusion)]
+- Social Diffusion: Long-term Multiple Human Motion Anticipation [[paper](https://openaccess.thecvf.com/content/ICCV2023/papers/Tanke_Social_Diffusion_Long-term_Multiple_Human_Motion_Anticipation_ICCV_2023_paper.pdf)] [[code](https://github.com/jutanke/social_diffusion)]
+- Human Joint Kinematics Diffusion-Refinement for Stochastic Motion Prediction [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/25754)] 
 
 **CVPR**
 
