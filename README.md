@@ -34,8 +34,7 @@ This paper list will be continuously updated.
 
 ## Survey
 
-- 
-Human Motion Generation: A Survey [[paper]([2307.10894.pdf (arxiv.org)](https://arxiv.org/abs/2307.10894))]
+- Human Motion Generation: A Survey [[paper](https://arxiv.org/abs/2307.10894)]
 ## Papers
 
 ### 2024
