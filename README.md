@@ -45,7 +45,7 @@ This paper list will be continuously updated.
 
 **CVPR**
 
-- DiverseMotion: Towards Diverse Human Motion Generation via Discrete Diffusion [[project](https://ericguo5513.github.io/momask/)] [[paper](https://arxiv.org/abs/2312.00063)] [[code](https://github.com/EricGuo5513/momask-codes)]
+- MoMask: Generative Masked Modeling of 3D Human Motions [[project](https://ericguo5513.github.io/momask/)] [[paper](https://arxiv.org/abs/2312.00063)] [[code](https://github.com/EricGuo5513/momask-codes)]
 - MMM: Generative Masked Motion Model [[project](https://exitudio.github.io/MMM-page/)] [[paper](http://arxiv.org/abs/2312.03596)] [[code](https://github.com/exitudio/MMM/)]
 - FaceTalk: Audio-Driven Motion Diffusion for Neural Parametric Head Models [[project](https://shivangi-aneja.github.io/projects/facetalk/)] [[paper](https://arxiv.org/abs/2312.08459)] [[code](https://github.com/shivangi-aneja/FaceTalk)]
 - AAMDM: Accelerated Auto-regressive Motion Diffusion Mode [[paper](https://arxiv.org/abs/2401.06146)]
@@ -65,7 +65,7 @@ This paper list will be continuously updated.
 
 **arXiv papers**
 - Motion Mamba: Efficient and Long Sequence Motion Generation with Hierarchical and Bidirectional Selective SSM [[project](https://steve-zeyu-zhang.github.io/MotionMamba/)] [[paper](https://arxiv.org/abs/2403.07487)] [[code](https://github.com/steve-zeyu-zhang/MotionMamba/)]
-- GUESS:GradUally Enriching SyntheSis for Text-Driven Human Motion Generation [[paper](https://arxiv.org/abs/2401.02142)] [[code](https://github.com/xuehao-gao/guess)]
+- GUESS: GradUally Enriching SyntheSis for Text-Driven Human Motion Generation [[paper](https://arxiv.org/abs/2401.02142)] [[code](https://github.com/xuehao-gao/guess)]
 ### 2023
 
 **NeurIPS**
