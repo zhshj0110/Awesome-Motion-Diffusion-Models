@@ -115,8 +115,8 @@ This paper list will be continuously updated.
 
 ### 2022
 
-**ECCV**
-
+**ECCV** 
+- MotionCLIP: Exposing Human Motion Generation to CLIP Space [[project](https://guytevet.github.io/motionclip-page/)] [[paper](http://arxiv.org/abs/2203.08063)] [[code](https://github.com/GuyTevet/MotionCLIP)]
 - TEMOS: Generating diverse human motions from textual descriptions [[project](https://mathis.petrovich.fr/temos/)] [[paper](http://arxiv.org/abs/2204.14109)] [[code](https://github.com/Mathux/TEMOS)]
 
 **arXiv papers**
