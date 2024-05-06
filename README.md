@@ -62,10 +62,14 @@ This paper list will be continuously updated.
 
 - SinMDM: Single Motion Diffusion [[project](https://sinmdm.github.io/SinMDM-page/)] [[paper](https://arxiv.org/abs/2302.05905)] [[code](https://github.com/SinMDM/SinMDM)]
 - Human Motion Diffusion as a Generative Prior [[project](https://priormdm.github.io/priorMDM-page/)] [[paper](https://arxiv.org/abs/2303.01418)] [[code](https://github.com/priorMDM/priorMDM)]
+- OmniControl: Control Any Joint at Any Time for Human Motion Generation[[project]()] [[paper](https://arxiv.org/abs/2310.08580)] [[code](https://github.com/neu-vi/OmniControl)]
 
 **arXiv papers**
+
 - Motion Mamba: Efficient and Long Sequence Motion Generation with Hierarchical and Bidirectional Selective SSM [[project](https://steve-zeyu-zhang.github.io/MotionMamba/)] [[paper](https://arxiv.org/abs/2403.07487)] [[code](https://github.com/steve-zeyu-zhang/MotionMamba/)]
 - GUESS: GradUally Enriching SyntheSis for Text-Driven Human Motion Generation [[paper](https://arxiv.org/abs/2401.02142)] [[code](https://github.com/xuehao-gao/guess)]
+- MotionLCM: Real-time Controllable Motion Generation via Latent Consistency Model [[paper](https://arxiv.org/abs/2404.19759)] [[code](https://github.com/Dai-Wenxun/MotionLCM)]
+  
 ### 2023
 
 **NeurIPS**
