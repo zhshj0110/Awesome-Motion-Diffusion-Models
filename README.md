@@ -52,6 +52,7 @@ This paper list will be continuously updated.
 - FlowMDM: Seamless Human Motion Composition with Blended Positional Encodings [[project](https://barquerogerman.github.io/FlowMDM/)] [[paper](https://arxiv.org/abs/2402.15509)] [[code](https://github.com/BarqueroGerman/FlowMDM)]
 - OMG: Towards Open-vocabulary Motion Generation via Mixture of Controllers [[project](https://tr3e.github.io/omg-page/)] [[paper](https://arxiv.org/abs/2312.08985)] [[code](https://tr3e.github.io/omg-page/)]
 - MAS: Multi-view Ancestral Sampling for 3D motion generation using 2D diffusion [[project](https://guytevet.github.io/mas-page/)] [[paper](https://arxiv.org/abs/2310.14729)] [[code](https://github.com/roykapon/MAS)]
+
   (Scene Interaction ↓)
 - AnySkill: Learning Open-Vocabulary Physical Skill for Interactive Agents [[project](https://anyskill.github.io/)] [[paper](https://arxiv.org/pdf/2403.12835)] [[Video](https://www.youtube.com/watch?v=QojOdY2_dTQ)] [[code](https://github.com/jiemingcui/anyskill)]
 - Scaling Up Dynamic Human-Scene Interaction Modeling [[project](https://jnnan.github.io/trumans/)] [[paper](https://arxiv.org/pdf/2403.08629)] [[Demo](https://huggingface.co/spaces/jnnan/trumans)] [[code](https://huggingface.co/spaces/jnnan/trumans/tree/main)]
@@ -66,7 +67,7 @@ This paper list will be continuously updated.
 
 - SinMDM: Single Motion Diffusion [[project](https://sinmdm.github.io/SinMDM-page/)] [[paper](https://arxiv.org/abs/2302.05905)] [[code](https://github.com/SinMDM/SinMDM)]
 - Human Motion Diffusion as a Generative Prior [[project](https://priormdm.github.io/priorMDM-page/)] [[paper](https://arxiv.org/abs/2303.01418)] [[code](https://github.com/priorMDM/priorMDM)]
-- Omnicontrol: Control any joint at any time for human motion generation [[project](https://neu-vi.github.io/omnicontrol/)] [[paper](https://arxiv.org/pdf/2310.08580)] [[code](https://github.com/neu-vi/omnicontrol)]
+- OmniControl: Control any joint at any time for human motion generation [[project](https://neu-vi.github.io/omnicontrol/)] [[paper](https://arxiv.org/pdf/2310.08580)] [[code](https://github.com/neu-vi/omnicontrol)]
 
 **arXiv papers**
 - Motion Mamba: Efficient and Long Sequence Motion Generation with Hierarchical and Bidirectional Selective SSM [[project](https://steve-zeyu-zhang.github.io/MotionMamba/)] [[paper](https://arxiv.org/abs/2403.07487)] [[code](https://github.com/steve-zeyu-zhang/MotionMamba/)]
