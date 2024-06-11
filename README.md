@@ -64,11 +64,16 @@ This paper list will be continuously updated.
 - Human Motion Diffusion as a Generative Prior [[project](https://priormdm.github.io/priorMDM-page/)] [[paper](https://arxiv.org/abs/2303.01418)] [[code](https://github.com/priorMDM/priorMDM)]
 - OmniControl: Control Any Joint at Any Time for Human Motion Generation[[project](https://neu-vi.github.io/omnicontrol/)] [[paper](https://arxiv.org/abs/2310.08580)] [[code](https://github.com/neu-vi/OmniControl)]
 
+**Siggraph**
+- LGTM: Local-to-Global Text-Driven Human Motion Diffusion Model [[paper](http://arxiv.org/abs/2405.03485)] [[code](https://github.com/l-sun/lgtm)]
+- Flexible Motion In-betweening with Diffusion Models [[project](https://setarehc.github.io/CondMDI/)] [[paper](http://arxiv.org/abs/2405.11126)] [[code](https://github.com/setarehc/diffusion-motion-inbetweening)]
+
 **arXiv papers**
 
 - Motion Mamba: Efficient and Long Sequence Motion Generation with Hierarchical and Bidirectional Selective SSM [[project](https://steve-zeyu-zhang.github.io/MotionMamba/)] [[paper](https://arxiv.org/abs/2403.07487)] [[code](https://github.com/steve-zeyu-zhang/MotionMamba/)]
 - GUESS: GradUally Enriching SyntheSis for Text-Driven Human Motion Generation [[paper](https://arxiv.org/abs/2401.02142)] [[code](https://github.com/xuehao-gao/guess)]
 - MotionLCM: Real-time Controllable Motion Generation via Latent Consistency Model [[project](https://dai-wenxun.github.io/MotionLCM-page/)] [[paper](https://arxiv.org/abs/2404.19759)] [[code](https://github.com/Dai-Wenxun/MotionLCM)]
+- ParCo: Part-Coordinating Text-to-Motion Synthesis [[paper](https://arxiv.org/abs/2403.18512)] [[code](https://github.com/qrzou/ParCo)]
   
 ### 2023
 
