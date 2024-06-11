@@ -52,7 +52,11 @@ This paper list will be continuously updated.
 - FlowMDM: Seamless Human Motion Composition with Blended Positional Encodings [[project](https://barquerogerman.github.io/FlowMDM/)] [[paper](https://arxiv.org/abs/2402.15509)] [[code](https://github.com/BarqueroGerman/FlowMDM)]
 - OMG: Towards Open-vocabulary Motion Generation via Mixture of Controllers [[project](https://tr3e.github.io/omg-page/)] [[paper](https://arxiv.org/abs/2312.08985)] [[code](https://tr3e.github.io/omg-page/)]
 - MAS: Multi-view Ancestral Sampling for 3D motion generation using 2D diffusion [[project](https://guytevet.github.io/mas-page/)] [[paper](https://arxiv.org/abs/2310.14729)] [[code](https://github.com/roykapon/MAS)]
-
+  
+  (Scene Interaction ↓)
+- AnySkill: Learning Open-Vocabulary Physical Skill for Interactive Agents [[project](https://anyskill.github.io/)] [[paper](https://arxiv.org/abs/2403.12835)] [[Video](https://www.youtube.com/watch?v=QojOdY2_dTQ)] [[code](https://github.com/jiemingcui/anyskill)]
+- Scaling Up Dynamic Human-Scene Interaction Modeling [[project](https://jnnan.github.io/trumans/)] [[paper](https://arxiv.org/abs/2403.08629)] [[Demo](https://huggingface.co/spaces/jnnan/trumans)] [[code](https://huggingface.co/spaces/jnnan/trumans/tree/main)]
+- Move as You Say, Interact as You Can: Language-guided Human Motion Generation with Scene Affordance [[project](https://afford-motion.github.io/)] [[paper](https://arxiv.org/abs/2403.18036)] [[Video](https://www.youtube.com/watch?v=emT0FHDYY1U)] [[code](https://github.com/afford-motion/afford-motion)]
 
 **IJCV**
 
@@ -64,6 +68,9 @@ This paper list will be continuously updated.
 - Human Motion Diffusion as a Generative Prior [[project](https://priormdm.github.io/priorMDM-page/)] [[paper](https://arxiv.org/abs/2303.01418)] [[code](https://github.com/priorMDM/priorMDM)]
 - OmniControl: Control Any Joint at Any Time for Human Motion Generation[[project](https://neu-vi.github.io/omnicontrol/)] [[paper](https://arxiv.org/abs/2310.08580)] [[code](https://github.com/neu-vi/OmniControl)]
 
+**ICML**
+- HumanTOMATO: Text-aligned Whole-body Motion Generation [[project](https://lhchen.top/HumanTOMATO/)] [[paper](https://arxiv.org/abs/2310.12978)] [[code](https://github.com/IDEA-Research/HumanTOMATO)]
+  
 **Siggraph**
 - LGTM: Local-to-Global Text-Driven Human Motion Diffusion Model [[paper](http://arxiv.org/abs/2405.03485)] [[code](https://github.com/l-sun/lgtm)]
 - Flexible Motion In-betweening with Diffusion Models [[project](https://setarehc.github.io/CondMDI/)] [[paper](http://arxiv.org/abs/2405.11126)] [[code](https://github.com/setarehc/diffusion-motion-inbetweening)]
@@ -72,6 +79,7 @@ This paper list will be continuously updated.
 
 - Motion Mamba: Efficient and Long Sequence Motion Generation with Hierarchical and Bidirectional Selective SSM [[project](https://steve-zeyu-zhang.github.io/MotionMamba/)] [[paper](https://arxiv.org/abs/2403.07487)] [[code](https://github.com/steve-zeyu-zhang/MotionMamba/)]
 - GUESS: GradUally Enriching SyntheSis for Text-Driven Human Motion Generation [[paper](https://arxiv.org/abs/2401.02142)] [[code](https://github.com/xuehao-gao/guess)]
+- Off-the-shelf ChatGPT is a Good Few-shot Human Motion Predictor [[paper](https://arxiv.org/abs/2405.15267)]
 - MotionLCM: Real-time Controllable Motion Generation via Latent Consistency Model [[project](https://dai-wenxun.github.io/MotionLCM-page/)] [[paper](https://arxiv.org/abs/2404.19759)] [[code](https://github.com/Dai-Wenxun/MotionLCM)]
 - ParCo: Part-Coordinating Text-to-Motion Synthesis [[paper](https://arxiv.org/abs/2403.18512)] [[code](https://github.com/qrzou/ParCo)]
   
