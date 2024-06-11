@@ -52,7 +52,6 @@ This paper list will be continuously updated.
 - FlowMDM: Seamless Human Motion Composition with Blended Positional Encodings [[project](https://barquerogerman.github.io/FlowMDM/)] [[paper](https://arxiv.org/abs/2402.15509)] [[code](https://github.com/BarqueroGerman/FlowMDM)]
 - OMG: Towards Open-vocabulary Motion Generation via Mixture of Controllers [[project](https://tr3e.github.io/omg-page/)] [[paper](https://arxiv.org/abs/2312.08985)] [[code](https://tr3e.github.io/omg-page/)]
 - MAS: Multi-view Ancestral Sampling for 3D motion generation using 2D diffusion [[project](https://guytevet.github.io/mas-page/)] [[paper](https://arxiv.org/abs/2310.14729)] [[code](https://github.com/roykapon/MAS)]
-  
   (Scene Interaction ↓)
 - AnySkill: Learning Open-Vocabulary Physical Skill for Interactive Agents [[project](https://anyskill.github.io/)] [[paper](https://arxiv.org/abs/2403.12835)] [[Video](https://www.youtube.com/watch?v=QojOdY2_dTQ)] [[code](https://github.com/jiemingcui/anyskill)]
 - Scaling Up Dynamic Human-Scene Interaction Modeling [[project](https://jnnan.github.io/trumans/)] [[paper](https://arxiv.org/abs/2403.08629)] [[Demo](https://huggingface.co/spaces/jnnan/trumans)] [[code](https://huggingface.co/spaces/jnnan/trumans/tree/main)]
@@ -72,6 +71,7 @@ This paper list will be continuously updated.
 - HumanTOMATO: Text-aligned Whole-body Motion Generation [[project](https://lhchen.top/HumanTOMATO/)] [[paper](https://arxiv.org/abs/2310.12978)] [[code](https://github.com/IDEA-Research/HumanTOMATO)]
   
 **Siggraph**
+
 - LGTM: Local-to-Global Text-Driven Human Motion Diffusion Model [[paper](http://arxiv.org/abs/2405.03485)] [[code](https://github.com/l-sun/lgtm)]
 - Flexible Motion In-betweening with Diffusion Models [[project](https://setarehc.github.io/CondMDI/)] [[paper](http://arxiv.org/abs/2405.11126)] [[code](https://github.com/setarehc/diffusion-motion-inbetweening)]
 
