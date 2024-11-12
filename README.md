@@ -40,9 +40,9 @@ This paper list will be continuously updated.
 ### 2024
 
 **ECCV**
-
 - Motion Mamba: Efficient and Long Sequence Motion Generation [[project](https://steve-zeyu-zhang.github.io/MotionMamba/)] [[paper](https://arxiv.org/abs/2403.07487)] [[code](https://github.com/steve-zeyu-zhang/MotionMamba/)]
 - BAMM: Bidirectional Autoregressive Motion Model [[project](https://exitudio.github.io/BAMM-page/)] [[paper](https://arxiv.org/abs/2403.19435)] [[code](https://github.com/exitudio/BAMM/)]
+- ParCo: Part-Coordinating Text-to-Motion Synthesis [[paper](http://arxiv.org/abs/2403.18512)] [[code](https://github.com/qrzou/ParCo)]
 
 **TPAMI**
 
@@ -87,7 +87,7 @@ This paper list will be continuously updated.
 - Off-the-shelf ChatGPT is a Good Few-shot Human Motion Predictor [[paper](https://arxiv.org/abs/2405.15267)]
 - MotionLCM: Real-time Controllable Motion Generation via Latent Consistency Model [[project](https://dai-wenxun.github.io/MotionLCM-page/)] [[paper](https://arxiv.org/abs/2404.19759)] [[code](https://github.com/Dai-Wenxun/MotionLCM)]
 - ParCo: Part-Coordinating Text-to-Motion Synthesis [[paper](https://arxiv.org/abs/2403.18512)] [[code](https://github.com/qrzou/ParCo)]
-  
+- MotionFix: Text-Driven 3D Human Motion Editing [[paper](https://arxiv.org/abs/2408.00712v1)]
 ### 2023
 
 **NeurIPS**
