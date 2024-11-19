@@ -82,7 +82,7 @@ This paper list will be continuously updated.
 
 **arXiv papers**
 
-- Motion Mamba: Efficient and Long Sequence Motion Generation with Hierarchical and Bidirectional Selective SSM [[project](https://steve-zeyu-zhang.github.io/MotionMamba/)] [[paper](https://arxiv.org/abs/2403.07487)] [[code](https://github.com/steve-zeyu-zhang/MotionMamba/)]
+- BAD: Bidirectional Auto-regressive Diffusion for Text-to-Motion Generation [[project](https://rohollahhs.github.io/BAD-page/)] [[paper](https://arxiv.org/abs/2409.10847)] [[code](https://github.com/rohollahhs/bad/)]
 - GUESS: GradUally Enriching SyntheSis for Text-Driven Human Motion Generation [[paper](https://arxiv.org/abs/2401.02142)] [[code](https://github.com/xuehao-gao/guess)]
 - Off-the-shelf ChatGPT is a Good Few-shot Human Motion Predictor [[paper](https://arxiv.org/abs/2405.15267)]
 - MotionLCM: Real-time Controllable Motion Generation via Latent Consistency Model [[project](https://dai-wenxun.github.io/MotionLCM-page/)] [[paper](https://arxiv.org/abs/2404.19759)] [[code](https://github.com/Dai-Wenxun/MotionLCM)]
