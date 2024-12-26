@@ -81,7 +81,7 @@ This paper list will be continuously updated.
 - Flexible Motion In-betweening with Diffusion Models [[project](https://setarehc.github.io/CondMDI/)] [[paper](http://arxiv.org/abs/2405.11126)] [[code](https://github.com/setarehc/diffusion-motion-inbetweening)]
 
 **arXiv papers**
-
+- TAAT: Think and Act from Arbitrary Texts in Text to Motion [[paper](https://arxiv.org/pdf/2404.14745v3)]
 - BAD: Bidirectional Auto-regressive Diffusion for Text-to-Motion Generation [[project](https://rohollahhs.github.io/BAD-page/)] [[paper](https://arxiv.org/abs/2409.10847)] [[code](https://github.com/rohollahhs/bad/)]
 - GUESS: GradUally Enriching SyntheSis for Text-Driven Human Motion Generation [[paper](https://arxiv.org/abs/2401.02142)] [[code](https://github.com/xuehao-gao/guess)]
 - Off-the-shelf ChatGPT is a Good Few-shot Human Motion Predictor [[paper](https://arxiv.org/abs/2405.15267)]
