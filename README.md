@@ -3,6 +3,9 @@
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
 
+Note: This repository will no longer be updated. An automatically updated collection of papers on text-to-motion models is available at [Awesome-Text-to-Motion-Models](https://github.com/zhshj0110/Awesome-Text-to-Motion-Models/). We have checked that all articles under this repository can be found in the new repository. Please pay attention to [Awesome-Text-to-Motion-Models](https://github.com/zhshj0110/Awesome-Text-to-Motion-Models/).
+
+---
 
 We collect existing papers on human motion diffusion models published in prominent conferences and journals. 
 
